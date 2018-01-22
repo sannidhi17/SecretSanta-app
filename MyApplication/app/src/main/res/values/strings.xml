@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SecretSanta</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="start">Get Started</string>
+    <string name="back">Go Back</string>
+    <string name="how">How it works</string>
+    <string name="add_button">Add Participant</string>
+    <string name="add_text">Enter the name and email address.</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="generate">Generate Targets</string>
+    <string name="empty">Click Add Participant</string>
+    <string name="rules_title">How to use the app:</string>
+    <string name="rules_text">1. Enter the name and email for a participant.\n\n2. Click Add Participant\n\n3. Do this for each participant\n\n4. Click Generate Targets\n\n5. Have fun exchanging gifts! :)</string>
+</resources>
